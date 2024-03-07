@@ -1,3 +1,4 @@
 class index{
-    system.out.printin("Hello")
+    system.out.printIn("Hello")
 }
+public static void main(string[]args){}
